@@ -5,6 +5,7 @@
 3. Έχω φορτώσει το csv σε μια Lakehouse, στο Files section.
 4. Και τα αποτελέσματα τα γράφω σε πίνακες στο Lakehouse.
 5. Η όλη ροή τρέχει με ένα pipeline, καλώντας ένα notebook task.
+6. Θα βρείτε ένα json file για το pipeline, Production lines.
 
    Και εδώ η θεώρηση είναι για τα lines, ψάχνω να βρω start/stop για να βρω τις διάρκειες και τα uptime,downtime όπως στην sql
    αλλά δεν έχω προσθέσει τα start/stop όπου λείπουν στο αρχείο.
