@@ -1,5 +1,6 @@
 Για το sql κομμάτι υπάρχουν 4 αρχεία:
-1.01_create_raw_table:
+1.01_create_raw_table:δημουργείς schema, production.events,indexes,production.events_staging,BULK INSERT production.events_staging,insert statement into production.events
+υπάρχουν σχόλια για κάθετι που φτάχνεις στο sql.
 2.02_create_view:
 3.03_resultsfor_47:
 4.04_uptime_downtime:
